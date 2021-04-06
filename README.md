@@ -9,6 +9,6 @@ Para el primer ejercicio, ejecutar de la siguiente manera: El String se debe pas
 
 java DdatmEs0001e.java "123 abcd*3"
 
-Para el primer ejercicio, ejecutar de la siguiente manera: 
+Para el segundo ejercicio, ejecutar de la siguiente manera: Pasar los numeros separados por espacio.
 
 java DdatmEs0002e.java 58 60 55
